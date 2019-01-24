@@ -1,0 +1,20 @@
+{
+  "name": "animal-trivia",
+  "version": "1.1.0",
+  "description": "trivia game\r plan is to work on this game when i'm with the kids and cannot be in my workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/animal-trivia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/animal-trivia/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/animal-trivia#readme"
+}
