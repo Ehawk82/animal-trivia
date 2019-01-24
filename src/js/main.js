@@ -3,7 +3,7 @@ var myUI;
 myUI = {
 	init: () => {
 	
-		console.log("hello-nurse");
+		console.log(tiger[0]);
 
 	}
 };
