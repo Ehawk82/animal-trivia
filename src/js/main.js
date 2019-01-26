@@ -2,9 +2,14 @@ var myUI;
 
 myUI = {
 	init: () => {
-	
-		console.log(tiger[0]);
+        myUI.loadout();
+	},
+	loadout: () => {
+		var div = createEle("div");
 
+        div.innerHTML = tiger[0]
+
+		animalgame.appendChild(div);
 	}
 };
 window.onload = () => {
