@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ehawk82/animal-trivia/issues"
   },
-  "homepage": "https://github.com/Ehawk82/animal-trivia#readme"
+  "homepage": "https://github.com/Ehawk82/animal-trivia#readme",
+  "devDependencies": {
+    "gScript2019": "file:../gScript2019"
+  }
 }
